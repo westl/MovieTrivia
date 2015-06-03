@@ -4,5 +4,6 @@
     <string name="app_name">MovieTrivia</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
-
+    <string name="question">Get ready for Movie Trivia!</string>
+	<string name="timer_text">Click Here to Start!</string>
 </resources>
